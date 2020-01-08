@@ -1,7 +1,7 @@
 # TicTacToe
 Write   a   iPhone   (XCode   environment)   code   program   to   deliver   the   followingfunctionality:
-Part A -
-Create a simple program that enables two people to play the game Tik-Tak-Toe (or Noughts and Crosses, Xs and Os).
+
+Part A - Create a simple program that enables two people to play the game Tik-Tak-Toe (or Noughts and Crosses, Xs and Os).
 
 Part B - The application above should be further developed to include all or some ofthe following features:
 * Background image view (the playing field consisting of two vertical and twohorizontal lines).
